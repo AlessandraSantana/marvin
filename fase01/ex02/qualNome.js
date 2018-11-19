@@ -1,4 +1,4 @@
- function qualNome (sandy){
+ function qualNome (nome){
  return "meu nome é sandy";
  }
 
